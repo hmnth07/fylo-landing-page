@@ -50,6 +50,7 @@
   .mainTop {
     padding: 4%;
     display: flex;
+    padding-bottom: 100px;
   }
   .mainTop .textSection{
     width: 50%;
@@ -87,7 +88,7 @@
   }
 
   .designCurve {
-    margin-top: 50px;
+    
     height: 100px;
     width: 100%;
     background-image: url(../images/bg-curve-desktop.svg);
@@ -96,8 +97,7 @@
   }
 /* ___________________________________________main middle section________________________________*/
   .mainMiddle {
-    margin-top: 0;
-    padding: 0 4% 4% 4%;
+    padding: 2% 4% 4% 4%;
     display: flex;
     background-color: hsl(240, 75%, 98%);
   }
@@ -247,7 +247,7 @@ footer{
   .mainTop {
     flex-direction: column-reverse;
     text-align: center;
-    padding: 0 15px;
+    padding: 30px 15px;
   }
   h1 {
     font-size: 21px;
@@ -290,7 +290,6 @@ footer{
   }
 /* ___________________________________________main middle section________________________________*/
   .mainMiddle {
-    margin-top: 0;
     padding: 15px;
     flex-direction: column-reverse;
     text-align: center;
