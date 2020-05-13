@@ -42,6 +42,9 @@
   .navbar .topLogo {
     float: left;
   }
+  header, .mainTop{
+    background-color: white;
+  }
 /* main */
   /* ______________________________________main top section____________________________________________ */
   .mainTop {
