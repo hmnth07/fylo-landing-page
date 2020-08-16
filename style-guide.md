@@ -11,17 +11,17 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Very Dark Blue: hsl(243, 87%, 12%)
-- Desaturated Blue: hsl(238, 22%, 44%)
+- Very Dark Blue: hsl(243, 87%, 12%)     /___________________bg-Footer
+- Desaturated Blue: hsl(238, 22%, 44%)   /__________________bg-bottom main section 
 
 ### Accent
 
-- Bright Blue: hsl(224, 93%, 58%)
-- Moderate Cyan: hsl(170, 45%, 43%)
+- Bright Blue: hsl(224, 93%, 58%) /__________button
+- Moderate Cyan: hsl(170, 45%, 43%) /______Link in main middle
 
 ### Neutral
 
-- Light Grayish Blue: hsl(240, 75%, 98%)
+- Light Grayish Blue: hsl(240, 75%, 98%) /____bg-middle main section
 - Light Gray: hsl(0, 0%, 75%)
 
 ## Typography
